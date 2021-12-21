@@ -3,7 +3,7 @@
     {
         "evento": "Prueba partido ",
         "hora": "12:45",
-        "#EXTVLCOPT":"http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"
+        "#EXTVLCOPT": "http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"
        "url": "http://23.237.29.98:6188/eventox6/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8"
        
         },
