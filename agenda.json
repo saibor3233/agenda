@@ -1,9 +1,9 @@
 [
    
     {
-        "evento": "Prueba partido 2",
+        "evento": "Prueba partido 1",
         "hora": "12:45",
-        "url": "https://edge-live16-sl.cvattv.com.ar/live/c2live/ESPN_HD/SA_Live_dash_enc_2A/dash/ESPN_HD-audio_20001=145200.track_id=20001-10567780304872.mp4"
+        "url": "https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8"
  },
     {
         "evento": "Europa League: Monaco X Real Sociedad",
